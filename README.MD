@@ -8,10 +8,8 @@
 
 # Index
 
-- [English (Main)](#english)
-- [Português (Secundário)](#português)
-
----
+- [English](#english)
+- [Português](#português)
 
 ---
 
