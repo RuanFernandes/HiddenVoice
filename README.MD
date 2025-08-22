@@ -1,16 +1,8 @@
 <div align="center">
 	<img src="logo.png" alt="HiddenVoice Logo" width="120" />
-  
 	<h1>HiddenVoice</h1>
+	<h2>Speak freely. Grow together.</h2>
 </div>
-
-# 🇧🇷 Português
-
-## 👻 HiddenVoice
-
-O **HiddenVoice** é uma plataforma de **feedback anônimo** criada para dar voz a pessoas dentro de **times, empresas e comunidades**.  
-Muitas vezes, boas ideias, críticas construtivas ou até problemas importantes deixam de ser compartilhados por medo de exposição.  
-Com o HiddenVoice, todos podem se expressar de forma **segura, confidencial e livre de julgamentos**.
 
 ---
 
@@ -18,6 +10,8 @@ Com o HiddenVoice, todos podem se expressar de forma **segura, confidencial e li
 
 - [English (Main)](#english)
 - [Português (Secundário)](#português)
+
+---
 
 ---
 
